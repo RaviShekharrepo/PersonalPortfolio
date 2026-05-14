@@ -221,7 +221,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Email**: ravishekharcvbokaro@gmail.com
 - **LinkedIn**: [Ravi Shekhar](https://www.linkedin.com/in/ravi-shekhar-79a671354/)
-- **GitHub**: [@ravishekhar](https://github.com/ravishekhar)
+- **GitHub**: [@ravishekhar](https://github.com/ravishekharrepo)
 - **Instagram**: [@smartravishekhar](https://www.instagram.com/smartravishekhar/)
 
 ---
